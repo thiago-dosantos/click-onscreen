@@ -1,4 +1,4 @@
-##Click on Screen at React JS
+#Click on Screen at React JS
 
 <img src="./src/assets/preview.gif" alt="Alt text" title="Optional title">
 
