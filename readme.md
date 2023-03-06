@@ -1,6 +1,6 @@
 ##Click on Screen at React JS
 
-[alt text](./src/assets/preview.gif)
+[alt text](https://github.com/thiago-dosantos/click-onscreen/blob/main/src/assets/preview.gif)
 
 EN-UK
 
